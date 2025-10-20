@@ -3,3 +3,5 @@
 ## Sumário
 
 ## Colaboradores 
+
+© Todos os direitos reservados aos [Colaboradores](#colaboradores).
