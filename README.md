@@ -4,4 +4,8 @@
 
 ## Colaboradores 
 
+| Colaborador | Usuário |
+| --- | --- |
+| Willian Sant' Anna | @wssantanna |
+
 © Todos os direitos reservados aos [Colaboradores](#colaboradores).
