@@ -12,5 +12,6 @@
 | Antonio Vitório | @antoniov7 |
 | David Lucas | @DavidLuccass |
 | Ian Luis | @ianzinho23 |
+| Luan mascarenhas | @luanmascarenhas26 |
 
 © Todos os direitos reservados aos [Colaboradores](#colaboradores).
