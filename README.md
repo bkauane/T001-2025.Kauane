@@ -7,6 +7,7 @@
 | Nome | @ |
 | --- | --- |
 | Willian Sant' Anna | @wssantanna |
+| Renato Cosme | @rshine-amateur |
 | Gabriel Henrique Santos Moura | @Gabriel-HSM |
 | Raylane Ferreira  | @raylaneferreira|
 | Miguel Bispo Viana | @miguel11xp |
