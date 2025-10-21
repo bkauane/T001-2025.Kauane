@@ -7,6 +7,7 @@
 | Nome | @ |
 | --- | --- |
 | Willian Sant' Anna | @wssantanna |
+| Miguel Bispo Viana | @miguel11xp |
 | Rauan Freitas      | @Rauan-7    |
 | Antonio Vitório | @antoniov7 |
 | David Lucas | @DavidLuccass |
