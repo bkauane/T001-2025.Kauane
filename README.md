@@ -7,6 +7,7 @@
 | Nome | @ |
 | --- | --- |
 | Willian Sant' Anna | @wssantanna |
+| Gabriel Henrique Santos Moura | @Gabriel-HSM |
 | Raylane Ferreira  | @raylaneferreira|
 | Miguel Bispo Viana | @miguel11xp |
 | Rauan Freitas      | @Rauan-7 |
